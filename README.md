@@ -1,2 +1,0 @@
-# AP
-Advanced programming exercises
